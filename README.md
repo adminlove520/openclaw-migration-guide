@@ -6,6 +6,7 @@
 
 - [Codespaces 启动指南](./docs/Codespaces-OpenClaw启动指南.md)
 - [OpenClaw 迁移手册](./docs/OpenClaw迁移手册.md)
+- [OpenClaw Docker 部署指南](./docs/OpenClaw-Docker部署指南.md)
 - [迁移脚本](./scripts/migrate-openclaw.sh)
 
 ## 🚀 快速开始
